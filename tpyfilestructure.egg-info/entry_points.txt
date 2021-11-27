@@ -1,0 +1,3 @@
+[console_scripts]
+tpyfilestructure = tpyfilestructure.__main__:main
+

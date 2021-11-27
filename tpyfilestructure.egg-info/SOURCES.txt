@@ -1,0 +1,9 @@
+README.md
+setup.py
+tpyfilestructure/__init__.py
+tpyfilestructure/__main__.py
+tpyfilestructure.egg-info/PKG-INFO
+tpyfilestructure.egg-info/SOURCES.txt
+tpyfilestructure.egg-info/dependency_links.txt
+tpyfilestructure.egg-info/entry_points.txt
+tpyfilestructure.egg-info/top_level.txt

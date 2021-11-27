@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: tpyfilestructure
+Version: 0.0.1
+Summary: Python package to read and display the file/folder names present in a directory
+Home-page: https://github.com/tarun571999/tpyfilestructure
+Author: Tharun Kumar T
+Author-email: tarunkumar571999@gmail.com
+License: MIT
+Description: # tpyfilestructure
+        
+        Python package to read and display segregated file names present in a directory based on type of the file. 
+        
+        # Installation
+        
+        You can install tpyfilestructure from [PyPI](https://pypi.org/project/tpyfilestructure/)
+        ```python
+        pip install tpyfilestructure
+        ```
+        
+        # How to use
+        Navigate to the directory from where the file structure should be displayed. Open Command Prompt(cmd)/powershell in the same path. Once the Command Prompt/powershell pops up just type 'tpyfilestructure' and hit enter. 
+        
+            $ tpyfilestructure
+            --displays categorized file names based on type--
+        
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
